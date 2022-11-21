@@ -1,6 +1,6 @@
 # flutter_assignment
 
-Mobile Assignment
+### Mobile Assignment by William Robinson 100751756
 
 ## Getting Started
 
